@@ -1,3 +1,8 @@
+## Note
+
+This app was made using NextJs, Typescript and TailwindCSS, deployed at Vercel. Link below:
+https://spotifood-nu.vercel.app/
+
 # iFood Frontend Test
 
 Create a web application called Spotifood used to display the preferred playlists from iFood's customers. The web application has only one page:
